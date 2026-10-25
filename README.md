@@ -35,6 +35,36 @@ with the correct record.
 11. Screenshots of the System
 
 Main Menu & Adding an Order Main Menu
+
 <img width="457" height="277" alt="Screenshot 2026-10-25 143812" src="https://github.com/user-attachments/assets/c149df60-bbf1-45d2-9719-e1bce45039d6" />
+
+Adding an Order
+
+<img width="360" height="303" alt="Screenshot 2026-10-25 143822" src="https://github.com/user-attachments/assets/b324cd83-41b0-4265-9b02-cec48ec62924" />
+
+Viewing and Sorting Orders
+
+Viewing an Order
+
+<img width="830" height="150" alt="Screenshot 2026-10-25 143740" src="https://github.com/user-attachments/assets/52306f00-1c77-4dd0-9f81-0fdeef5dfd35" />
+
+Sorting an Order Bubble Sort
+
+<img width="852" height="442" alt="Screenshot 2026-10-25 144006" src="https://github.com/user-attachments/assets/9e5e1e71-9804-43be-809f-9f05f51d3b6e" />
+
+Preparation Queue
+
+<img width="528" height="82" alt="Screenshot 2026-10-25 144159" src="https://github.com/user-attachments/assets/bf46d85b-c9bb-44fd-8a85-b86d9ec873b9" />
+
+<img width="596" height="105" alt="Screenshot 2026-10-25 144035" src="https://github.com/user-attachments/assets/0052e8bd-c274-4f3c-a6bf-42ea127db5fa" />
+
+
+
+
+
+
+
+
+
 
 
