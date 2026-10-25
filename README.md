@@ -17,15 +17,15 @@
 
 The system provides the following functions:
 
--Add New Order – Allows the user to enter customer information, food items, quantities, and prices.
--View Order Items – Displays the recorded food orders and their details.
--Sort Menu Records – Organizes order records using the implemented sorting algorithms.
--Search by Customer Name – Allows the user to find orders using a customer's name.
--Add Order to Queue – Places an order ID into the food preparation queue.
--View Preparation Queue – Displays the order IDs waiting to be prepared.
--Peek at Next Order – Shows the next order to be prepared without removing it from the queue.
--Prepare Next Order – Processes the next order in the queue and displays its receipt.
--Exit – Closes the application.
+- Add New Order – Allows the user to enter customer information, food items, quantities, and prices.
+- View Order Items – Displays the recorded food orders and their details.
+- Sort Menu Records – Organizes order records using the implemented sorting algorithms.
+- Search by Customer Name – Allows the user to find orders using a customer's name.
+- Add Order to Queue – Places an order ID into the food preparation queue.
+- View Preparation Queue – Displays the order IDs waiting to be prepared.
+- Peek at Next Order – Shows the next order to be prepared without removing it from the queue.
+- Prepare Next Order – Processes the next order in the queue and displays its receipt.
+- Exit – Closes the application.
 
 5. The system uses multiple ArrayLists to store order IDs, customer names, food items, quantities, and total amounts. These lists work together through matching indexes, allowing the system to access and manage related order information. When records are sorted, the corresponding information is also swapped to keep each record organized correctly.
 
